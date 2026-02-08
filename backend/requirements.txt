@@ -1,0 +1,10 @@
+fastapi
+requests
+uvicorn
+selenium
+webdriver-manager
+beautifulsoup4
+litellm
+litellm[google]
+sentence-transformers 
+faiss-cpu

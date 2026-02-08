@@ -1,0 +1,6 @@
+FROM ghcr.io/open-webui/open-webui:main
+
+# Copy your models/tools into the appropriate directory
+# (Adjust the path as needed for Open WebUI's expected structure)
+COPY dbaas_model.json /app/backend/open_webui/models
+COPY dbaas_tool.json /app/backend/open_webui/tools

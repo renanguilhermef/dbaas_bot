@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zinc-fusion-486709-b4",
+  "private_key_id": "b456c5d229c70990e1df726d92e911dcf1a4a83a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzKi/NMFmkT0fH\nGRB/PMjpoEbSnTek2nUac6BAAE1u86rbAMUlx5VFyHv3xfGn6Y7VFZ2yd5vuKnip\ndvLY+N91SfxLHHoeidzq8qiSd5sC13g69AxqRZgwPf6t17nHFA5TR2oA2n1nuTOf\nNg0MPiNu2no9wZ4WnhgO/ZzzlzUx6ITJvTPGaehQz2MHknwsdYFuz+QeoZfmCLCM\nhOe7Bfdkw1Uehq/WlmsXPlBw5EPToObZc1Yfva8WjRCpARCVob1Voe3M6K5RBVes\ncS5SNa2TKrF3rZBkOPUJn4pJiS38jAbLbT4K2CekYce13rDLVFOKfTf7E+oNstWh\nXGt1A4GbAgMBAAECggEAEDUSQu0LRuZXF2coi2ILyLqTfYz0Uiji7AQmrHN6jb1k\nKNCOhQbjdX8X28efvzFNFvCQJetVAzv7U1Urzb3htQH+3SqTz3xoLCbMYgeI0b59\nJVQbZWerRz3scnxv1Vb2nsj4iWA6dO4XgeEJWCCs4uPHqBuCOgiOI5kEoDJ/AOch\nhY2nfWetaIEaCt8zLfugCiq+Oh10VFM9nwyzgzBh8F/3Lgket2De3tRxTZ9z6clu\niUz5YlfEqJhKEwMGdYukPRKnfdLpeRzmczetgRoVA22jYsDqa92cvNo1zWP5yHaX\nur1jjMUw0rAgjzMKDq5Kh0PXphyBQIjpaNZDLFIIUQKBgQDgjz5Wyn2xUiHm8UUJ\n8mkI0PhTCc+bojIcezJqSpFqyNI/H8Z0YlzqaAYQdtOjbLnFGVqjVpJX94V9RjEN\n5w7Zk0xv5m/kluWMopnDF65AWuOuJRJuSmVCkPtrja5gIHEkZqvJXeN5Qdc8jf8i\n51TbY1T0C7eUkhaQCfsaQ5ToEQKBgQDMP+K3zW5ObzUi9lD8Hj+YxiO4r0WP+dgX\nkEhiBiBBAl8slDAwuTl4aBYyHOErOCTujImhhW7VIUb65mcwc3ROGvJNPGgbckwz\nyoK7GhMXZYvfndCP/Cj0POFovfrsacQ2Fgf61TY/dSIDQBJ0MDKhTWDWJhCOhggZ\nCgTYFnTa6wKBgA69mGv+Es4nBA6y28NRZE+t1/8rb7NZrExuUdrkVjNaR2LZZR+S\nrWK9vVgrVK0vn+ouReLe9fBMUTjt+J5fAnyJzMSzrbilpx/aNJm33jpfPP7bdCBF\nRexetAJVZJLuzj6DdtdbEGmPRt+0uoDCCrH0DUmP01cvV8fQv+jzcrzhAoGBAMWG\n8yd2ULsh6W2KcP+h8Tc6R8mQF+IJaeY/7wB9lCvKs2hVV9WHDAFaCD0mmMxHW9An\nseK3PFx59j8nG5xLy6rNfI8dYEFK5E8iBhQUP2pdFkyIPu9Amgq55fR55nVERDFa\nVRVLpU7xZJdoG3CqPAyq3H++CD0Nej9c5RplfVVJAoGBAKpMhLTIMQlFBrIe6ezx\nZsrwwsNF9O7VY8vuUbvI5KZY7NIvA2CJuhMHZXoUi6NB6FKNV3+xLGsXyMlxsHjA\nOAN+ELA/KtuLUcU0u53RQqaz7hNfv1GKRilT2thLkolFCZbYr73/PioThl8eE4Fl\nff3vMyzjPyHBNnd7t03OL40q\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-api@zinc-fusion-486709-b4.iam.gserviceaccount.com",
+  "client_id": "118246181413942238882",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-api%40zinc-fusion-486709-b4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
