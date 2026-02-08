@@ -6,3 +6,4 @@ terraform.tfstate.backup
 *.tfvars.json
 *.tfvars.yaml
 *.tfvars.yml
+deploy/.terraform.tfstate.lock.info
