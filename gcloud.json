@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dbaas-bot",
+  "private_key_id": "c612a229ddc34621ab0ea4ee1aaa6e3a44ea5541",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXNPMytZvRHoB6\nKFre9lowtuu5t760w0Ibg2R6LT+wBB/idQDPSqgbp1sf7vAAEKgylcgjmo3r1bie\nel0/QjUaDtn0OLEUMfW5iFavnFhJ1ZBqLNsgxizEm9lOg/TxHfeO+HwTt0tnqYeQ\n5evKi43oJLJmzdAcldAbnCbGnHldfMyfSTjdBLTSKDjkFPY5aSlgdLnftupjO0s9\nt2RzFfZ7qNr10LcdvyzltLNd4Bnr54ro+0eYExjt1Pqtj/E5nzrfPppAdg8sH6Iv\nprW9e/ZgXPC6KfoX9kTLBdVz9mio2d8GB1BhzaNPOiyaQ4uy1W9xf/uwyAzHPoAh\nS9qPzrydAgMBAAECggEAIrAqSbwZjLIpabzXyfYsryfLsL2rQadYw1yTgKbgSTZN\nBUPvxV5cbgmo8Uy8oNsxZvdvJGHYxJ1xXuP1/+Tlrz5weGNIFni2pVNWha+BnqCg\noob7V0u3afxR8D38A5OrHxC40EIYyaV9/PsOKpd03OiMR+LX5zLkPO1IBQDRI+W6\n9MYU2NHFnaIboZdDdItU6wTUves7aCvBFuFdpEyxFQXyM+thqb8/Ab6tssvpyoCX\n8OzDDBvD4uYB9siJWf7u+tXJHdTbMJD0YAD+aVxxGAehoaB+Zwub9GNWKDKGhGWP\nJDf1hK3Gam4d0Nuf2PWzv19Jg3tZ/y/Ss22vsdhGOQKBgQDJYvyZHQMFLuNP28Vx\nfM3fGW72bPUaO0TsTHiCOaYVanhC2fJPqIPH3qHw9y2R9VcyJGikj68QMH7Pxj3H\nKtPyP3p27K2dDj20CQKIuLumDYVC12mz8dG0X9pGfw0wPlqAdGoZ4uQuAmHkHtFO\ncQMHkoIQ9bzy/CbpbVYWl0rXtQKBgQDANkrViD2L36tgJslw7cjrYySalTu/fPSM\nfOY/hJgAZu8lbbaCCQV0433jGR1+nvKwPINqPIbsSeB3C1vrKJ+vl3Tk5jRsbCVM\nql26J8hw1mqgK5DbYiabfrDvpkFCndvdaInaZ+uSfWbUsXuvltaEv3pnpXE/VnNC\nyd4R7eqSSQKBgQCwFz7aPzT53kLi/D9L+Z4mOx38mc9DzZl5qXAiJnhj94IKqnon\nTylTpgciJXASVV2WOaHKatzfohfwY952/arwArN5s4AneWFYwBwYIrfp/Z6NkMAb\nmRINz1aUF9oXWh5WffSch/mPhYPFLXFFTqogf+n9HHLIYNVBfNouzMGjlQKBgDiK\nP+0cDG6utqyr/Cl56NZE7amDKHYlfZIt01Tv3f6QSNyLr1oE6VP+7zL0Wla6zszE\noCuJ7m5nNN4Pu1QrOP3f4YTLqrQSA87Pdo6h0TZP/EFtT0kZUB4BYG6+Swgbg2dX\nruVOGF+Y/7ylEKsQBb46zPjcE7n75h/JXceMYqnxAoGBAIvPWLlhaXhBtyAyO3DT\nFOdRI4DFfx6kZs4th6Yxk/DHZLBNw4lsbcScZN1sH234KLL0FxTIS+ylfNO+a5nA\nbxGK88+GbAtm4XQTMT+1IJ+DH0kEJpSmLTcy8mBu82IADBHcaIluBBwLnAasrxMR\nEA6yjEtnDOufc22G2xa/5NMQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbaas-bot@dbaas-bot.iam.gserviceaccount.com",
+  "client_id": "105308819707785711958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbaas-bot%40dbaas-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

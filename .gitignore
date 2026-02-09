@@ -7,3 +7,4 @@ terraform.tfstate.backup
 *.tfvars.yaml
 *.tfvars.yml
 deploy/.terraform.tfstate.lock.info
+backend/__pycache__/main.cpython-311.pyc

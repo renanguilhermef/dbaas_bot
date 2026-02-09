@@ -1,5 +1,5 @@
 provider "google" {
-  project = "zinc-fusion-486709-b4"
+  project = "dbaas-bot"
   region  = "us-central1"
   zone    = "us-central1-a"
 }
